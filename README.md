@@ -18,7 +18,7 @@ for reasons including:
 
 ### 📦 Where to find us now
 
-➡️ **New Repository:** [https://codeberg.org/whisperdev/MinimapHeaderHider>](https://codeberg.org/whisperdev/MinimapHeaderHider>)  
+➡️ **New Repository:** [https://codeberg.org/whisperdev/MinimapHeaderHider](https://codeberg.org/whisperdev/MinimapHeaderHider)  
 ➡️ **Issues:** Please open them **only on Codeberg**.
 
 Thank you for following this project! 🙌
